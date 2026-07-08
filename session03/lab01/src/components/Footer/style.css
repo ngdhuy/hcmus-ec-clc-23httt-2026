@@ -1,0 +1,11 @@
+.footer {
+    background-color: #6633cc;
+    color: #ffffff;
+    font-style: italic;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 30px;
+    line-height: 30px;
+}
